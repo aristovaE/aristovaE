@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aristovaE
 - 👀 I’m interested in gameDev and know EvErYtHiNg
 - 🌱 I’m currently learning Python, how to work with Linux OS and fight with anxious :^)
-- 📫 How to reach me: earistova751@gmai;.com
+- 📫 How to reach me: earistova751@gmail.com
 
 <!---
 aristovaE/aristovaE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
