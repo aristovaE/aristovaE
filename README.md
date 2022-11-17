@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aristovaE
-- 👀 I’m interested in gameDev and in knowing EvErYtHiNg
+<!--- - 👀 I’m interested in gameDev and in knowing EvErYtHiNg
 - 🌱 I’m currently learning Python, how to work with Linux OS and fighting anxious :^)
+--->
 - 📫 How to reach me: earistova751@gmail.com
 
 <!---
